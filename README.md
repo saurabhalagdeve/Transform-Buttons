@@ -1,3 +1,5 @@
+
+---
 # Transform-Buttons
 This GitHub repository showcases a simple HTML/CSS project that demonstrates the usage of CSS transitions and box shadows to create interactive button effects. The project provides two buttons, each with a unique transition and shadow effect when interacted with.
 
@@ -11,9 +13,6 @@ This GitHub repository showcases a simple HTML/CSS project that demonstrates the
 
 
 Certainly! Below is a sample README.md file for your project:
-
----
-# Project Title
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -55,7 +54,6 @@ For any questions or suggestions, please feel free to contact us at Saurabhalagd
 
 ---
 
-In the above README.md file, I've added placeholders for sections like "Screenshots" and "Contact" where you should include appropriate information and links. Remember to replace `your-username` with your actual GitHub username in the installation instructions. Additionally, add the actual screenshots of your application to the `screenshots` folder and update the image file names in the "Screenshots" section accordingly. Feel free to customize this template further to suit your specific project needs.
 
 
 
